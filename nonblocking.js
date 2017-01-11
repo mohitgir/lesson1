@@ -14,7 +14,7 @@ var drinks = fs.readFile('drinks.txt','utf8',function (err, drinks) {
 });
 
 //drink heading
-console.log('Drinks:')
+console.log('Drinks:');
 
 
 //get food
@@ -25,7 +25,7 @@ var food = fs.readFile('food.txt','utf8',function (err, food) {
 });
 
 //drink heading
-console.log('Food:')
+console.log('Food:');
 
 
 
